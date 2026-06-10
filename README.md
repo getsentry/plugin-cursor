@@ -5,10 +5,10 @@ wizards for any platform, production issue debugging via the Sentry MCP server,
 code review with Sentry context, and monitoring configuration.
 
 > [!IMPORTANT]
-> This repository is generated. It is built from the `main` branch of
+> This repository is generated. It is built from
 > [getsentry/sentry-for-ai](https://github.com/getsentry/sentry-for-ai) and
-> includes every skill in that library. Do not edit files here; make changes on
-> `main` and they will be rebuilt into this repository.
+> includes every skill in that library. Do not edit files here; make changes in
+> that repository and they will be rebuilt into this one.
 
 ## Install
 
