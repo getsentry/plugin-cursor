@@ -8,5 +8,5 @@
   "keywords": ["sentry", "debugging", "monitoring", "error-tracking"],
   "logo": "assets/logo.svg",
   "license": "MIT",
-  "repository": "https://github.com/getsentry/sentry-for-ai"
+  "repository": "https://github.com/getsentry/plugin-cursor"
 }
