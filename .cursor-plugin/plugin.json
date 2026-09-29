@@ -1,7 +1,7 @@
 {
   "name": "sentry",
   "description": "Sentry Plugin for Cursor to help with debugging including MCP and skill capabilities.",
-  "version": "1.4.1-dev.17.gf2792883",
+  "version": "1.4.1-dev.18.g1adb9ee6",
   "author": {
     "name": "Sentry"
   },
